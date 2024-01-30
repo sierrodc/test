@@ -1,0 +1,4 @@
+{"level": "ERROR", "message": "Ciao", "timestamp": "2024-01-30T23:09:09.485022+00:00", "logger": "root", "module": "main", "function": "<module>", "line": 25, "thread_name": "MainThread"}
+{"level": "ERROR", "message": "Ciaone", "timestamp": "2024-01-30T23:09:09.487066+00:00", "logger": "root", "module": "main", "function": "<module>", "line": 26, "thread_name": "MainThread", "something_else": 14}
+{"level": "ERROR", "message": "Ciao", "timestamp": "2024-01-30T23:13:06.259222+00:00", "logger": "root", "module": "main", "function": "<module>", "line": 25, "thread_name": "MainThread"}
+{"level": "ERROR", "message": "Ciaone", "timestamp": "2024-01-30T23:13:06.259863+00:00", "logger": "root", "module": "main", "function": "<module>", "line": 26, "thread_name": "MainThread", "something_else": 14}
